@@ -29,7 +29,7 @@ A smart, interactive **finance management app** built with **Streamlit**, using 
 
 ## 🔁 Flowchart
 
-```mermaid
+mermaid
 flowchart TD
     A[User Input] --> B[Transaction Agent]
     A --> C[Chat Agent]
@@ -37,7 +37,7 @@ flowchart TD
     B --> E[Category Breakdown Agent]
     B --> F[Pie Chart Agent]
     D --> G[Download CSV
-```
+
 🗂️ Project Structure
 markdown
 Copy
